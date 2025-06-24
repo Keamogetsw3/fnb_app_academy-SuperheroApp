@@ -1,3 +1,6 @@
+![Superheroes](images/superheroes.png)
+
+
 # Superhero App
 
 ## Objectives:
