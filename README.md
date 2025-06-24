@@ -1,4 +1,4 @@
-![Superheroes](images/superheroes.png)
+![Superheroes](images/Superheroes.jpg)
 
 
 # Superhero App
